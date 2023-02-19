@@ -14,8 +14,8 @@ export default function Home() {
         <h1 className={`${styles.name} ${montserrat.className}`}>
           Daniel Bird
           <span className={`${styles.tagline} ${raleway.className}`}>
-            Frontend specialist balancing craftsmanship and pragmatism to
-            deliver quality software solutions.
+            Frontend specialist balancing pride, professionalism and pragmatism
+            to deliver quality software solutions.
           </span>
         </h1>
 
