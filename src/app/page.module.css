@@ -7,7 +7,7 @@
 
 .name {
   font-size: 4rem;
-  margin-block-end: 4rem;
+  margin-block-end: 3rem;
 }
 
 .tagline {
@@ -15,7 +15,7 @@
   font-size: 1.2rem;
   font-weight: normal;
   line-height: 1.5;
-  margin-block-start: 2rem;
+  margin-block-start: 1rem;
 }
 
 .description {
@@ -42,8 +42,8 @@
 }
 
 .link {
-  display: flex;
   align-items: center;
+  display: flex;
   padding: 1rem;
   position: relative;
 }
@@ -58,4 +58,7 @@
 
 .link > svg {
   margin-inline-end: 0.5rem;
+}
+.link > h2 {
+  font-size: 1.2rem;
 }
